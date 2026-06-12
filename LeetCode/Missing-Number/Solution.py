@@ -3,4 +3,3 @@
 3        n = len(nums)
 4        expected = n * (n + 1) // 2
 5        return expected - sum(nums)
-6        
